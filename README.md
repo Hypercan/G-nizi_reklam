@@ -1,2 +1,2 @@
-# G-nizi_reklam
+# Gunizi_reklam
 günizi reklam web sitesi
