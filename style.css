@@ -6,9 +6,26 @@ body {
     background-color:
         #f2f2f2;
 }
+.space{
+    height: 50px;
+}
 
 .content-color1 {
     background-color: #d9d9d9;
+}
+
+.imgtrans{
+    margin: 10px;
+    transition: all 1s;
+}
+.imgtrans:hover {
+    transform: scale(1.1);
+}
+
+.article-is img {
+    height: 240px;
+    width: 280px;
+    border: 2px solid silver;
 }
 
 
